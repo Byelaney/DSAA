@@ -7,8 +7,8 @@ Here are some source codes.
 
 
 # Queue
-![priority-queue](./Queue/PriorityQueue.md)
+[priority-queue](./Queue/PriorityQueue.md)
 
 # Algorithms
 
-![reservoir-sampling](./alg4/Reservoir_Sampling.md)
+[reservoir-sampling](./alg4/Reservoir_Sampling.md)
