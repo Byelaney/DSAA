@@ -12,3 +12,4 @@ Here are some source codes.
 # Algorithms
 
 [reservoir-sampling](./alg4/Reservoir_Sampling.md)
+[majority-vote](./alg4/MajorityVote.md)
