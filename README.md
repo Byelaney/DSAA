@@ -16,3 +16,7 @@ Here are some source codes.
 [majority-vote](./alg4/MajorityVote.md)
 
 [sieve-of-eratosthenes](./alg4/SieveofEratosthenes.md)
+
+# Template
+
+[cpp-template](./cpp-template.md)
