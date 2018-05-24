@@ -14,3 +14,5 @@ Here are some source codes.
 [reservoir-sampling](./alg4/Reservoir_Sampling.md)
 
 [majority-vote](./alg4/MajorityVote.md)
+
+[sieve-of-eratosthenes](./alg4/SieveofEratosthenes.md)
